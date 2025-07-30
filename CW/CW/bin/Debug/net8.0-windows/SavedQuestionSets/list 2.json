@@ -1,0 +1,31 @@
+{
+  "SetName": "list 2",
+  "Questions": [
+    {
+      "$type": "MultipleChoiceQuestion, CW",
+      "Options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "CorrectOptionIndex": 1,
+      "Text": "How many Seasons does HCMC has?",
+      "Type": 0
+    },
+    {
+      "$type": "TrueFalseQuestion, CW",
+      "TrueFalseAnswer": true,
+      "Text": "Vietnam is located in Asia",
+      "Type": 2
+    },
+    {
+      "$type": "OpenEndedQuestion, CW",
+      "AcceptableAnswers": [
+        "United Kingdom"
+      ],
+      "Text": "Which country has Big Bang clock tower?",
+      "Type": 1
+    }
+  ]
+}
